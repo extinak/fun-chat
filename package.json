@@ -1,0 +1,27 @@
+{
+  "name": "boop-game",
+  "version": "0.0.1",
+  "description": "boop game! boop your friends!",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/extinak/fun-chat.git"
+  },
+  "author": "msquixotic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/extinak/fun-chat/issues"
+  },
+  "homepage": "https://github.com/extinak/fun-chat#readme",
+  "devDependencies": {
+    "globals": "15.9.0",
+    "webpack": "5.93.0",
+    "webpack-cli": "5.1.4"
+  },
+  "dependencies": {
+    "socket.io": "4.8.1"
+  }
+}

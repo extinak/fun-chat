@@ -1,0 +1,3 @@
+- make phone client
+- make main client
+- make server that you can request a new session, it saves it in a db until all are connected, then the client takes over (?)
